@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2015\Projects\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.exe
+c:\users\user\documents\visual studio 2015\Projects\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.exe
+c:\users\user\documents\visual studio 2015\Projects\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.pdb
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.exe.config
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.exe
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.pdb
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.csprojAssemblyReference.cache
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.csproj.CoreCompileInputs.cache
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.exe
+F:\Мои файлы\Дела\Институты\Технологии и методы программирования\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.pdb
+C:\Users\Test\Desktop\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.exe.config
+C:\Users\Test\Desktop\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.exe
+C:\Users\Test\Desktop\StrategyTemplateMethodApp\StrategyTemplateMethodApp\bin\Debug\StrategyTemplateMethodApp.pdb
+C:\Users\Test\Desktop\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.exe
+C:\Users\Test\Desktop\StrategyTemplateMethodApp\StrategyTemplateMethodApp\obj\Debug\StrategyTemplateMethodApp.pdb
